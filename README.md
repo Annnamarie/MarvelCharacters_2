@@ -34,7 +34,13 @@ The following EXTRA features are implemented:
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='https://i.imgur.com/e1ell1p.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src= 'https://i.imgur.com/sIvtGPu.gif' title='Video Demo' width='' alt='Video Demo' />
+Please see video link for orignal gif (Too big of a file to play on ReadMe): https://imgur.com/e1ell1p or https://imgur.com/sIvtGPu
+
+**Please see alternative Gif with reduced colors and reduced frames below**
+
+
+<img src= 'https://i.imgur.com/9OoedGN.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **ScreenToGif** and **Imgur**
 
