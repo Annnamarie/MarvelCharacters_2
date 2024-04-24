@@ -61,8 +61,8 @@ class MainActivity : AppCompatActivity() {
 
     private fun fetchMarvelCharacter(query: String ="") {
         val timestamp = System.currentTimeMillis()
-        val privateKey = "8c556ec022689fd9f3c0f9f419209163bad84125"
-        val publicKey = "f37af84e8fb858148cfad0e8b6ab4d38"
+        val privateKey = "key"
+        val publicKey = "key"
         val hash = stringToMd5("$timestamp$privateKey$publicKey")
         val encodedQuery = query.replace(" ", "%20")
 
